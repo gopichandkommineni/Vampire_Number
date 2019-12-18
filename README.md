@@ -1,5 +1,4 @@
-# DOS Project 1
-
+# This is a Class Project for COP5615
 
 Gopichand Kommineni         UFID 0305-5523
 Hemanth Kumar Malyala       UFID 6348-5914
